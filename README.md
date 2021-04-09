@@ -6,7 +6,7 @@ PORTALS AND GLASS WALLS:
   - Implemented two types of portals: Player portals && Projectile portals
   - Demostration of a projectile portal being used to solve simple puzzle and by-passing the glasss wall.
   - Things to note: 
-    - Green status progress bar rotation follows player so that player is able to see it clearly. 
+    - Green progress bar's rotation follows player so that player is able to see it clearly. 
     - Upon reaching 100% on progress bar, it resets back to original position.
 
 

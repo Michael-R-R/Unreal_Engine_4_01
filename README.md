@@ -22,6 +22,13 @@ PORTALS AND GLASS WALLS:
 
 ![DissolvingGlass](https://user-images.githubusercontent.com/54217603/114225759-b810d680-9940-11eb-860d-a55f6ea5f333.gif)
 
+OPEN SEASAME:
+  - Implemented interactable object with UI prompt
+  - Demostration of a door that a player can interact to open && close
+  - Functionality can be expanded to other interactable objects of differing variety
+  - Things to note:
+    - Object can only be interacted with if player is looking at it
+    - UI prompt disappears after interacting with the door and redisplays after getting within distance again
 
 ![OpenDoor](https://user-images.githubusercontent.com/54217603/114724581-b3b23800-9d09-11eb-9676-e2ab5020f1f2.gif)
 

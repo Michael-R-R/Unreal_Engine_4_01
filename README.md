@@ -33,6 +33,10 @@ OPEN SEASAME:
 ![OpenDoor](https://user-images.githubusercontent.com/54217603/114724581-b3b23800-9d09-11eb-9676-e2ab5020f1f2.gif)
 
 
+LETS GET TECHNICAL:
+  - Updated and improved the material of the vanishing glass wall
+  - Implemented a energy wall material
+
 ![EnergyWall](https://user-images.githubusercontent.com/54217603/114725694-b5303000-9d0a-11eb-8a26-bb4c8e9c5aad.gif)
 
 

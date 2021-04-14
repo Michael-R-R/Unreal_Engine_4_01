@@ -34,7 +34,7 @@ OPEN SEASAME:
 
 
 LETS GET TECHNICAL:
-  - Updated and improved the material of the vanishing glass wall
+  - Updated the material of the vanishing glass wall with a energy wall material created inside the editor
 
 ![EnergyWall](https://user-images.githubusercontent.com/54217603/114725694-b5303000-9d0a-11eb-8a26-bb4c8e9c5aad.gif)
 

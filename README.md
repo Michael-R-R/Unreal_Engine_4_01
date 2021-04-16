@@ -39,6 +39,10 @@ LETS GET TECHNICAL:
 ![EnergyWall](https://user-images.githubusercontent.com/54217603/114725694-b5303000-9d0a-11eb-8a26-bb4c8e9c5aad.gif)
 
 
+UNIVERSAL LANDSCAPER FOR HIRE:
+  - Began working on some landscaping to better learn the sculpting tools, lightning, and texturing
+  - Used Krita and https://tangrams.github.io/heightmapper/ I created a height map and imported it in UE4
+
 ![StartLandscape](https://user-images.githubusercontent.com/54217603/115094375-48c05700-9eeb-11eb-873b-472c5ac40b78.gif)
 
 

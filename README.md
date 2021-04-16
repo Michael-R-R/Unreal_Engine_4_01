@@ -42,6 +42,8 @@ LETS GET TECHNICAL:
 UNIVERSAL LANDSCAPER FOR HIRE:
   - Began working on some landscaping to better learn the sculpting tools, lightning, and texturing
   - Used Krita and https://tangrams.github.io/heightmapper/ I created a height map and imported it in UE4
+  - After importing the height map I used the erosion and raise terrain to shape the terrain to my desire
+  - Used the spline tool in order to create a path way up the mountain
 
 ![StartLandscape](https://user-images.githubusercontent.com/54217603/115094375-48c05700-9eeb-11eb-873b-472c5ac40b78.gif)
 
